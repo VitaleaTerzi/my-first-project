@@ -97,7 +97,8 @@ color: brown;
 }
 
 .end {
-  color: chocolate;
+  color: black;
+  font-weight: 800;
   background-color: lime;
 }
 
